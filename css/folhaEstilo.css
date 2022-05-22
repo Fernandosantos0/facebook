@@ -140,6 +140,10 @@ section#logo {
 
 @media screen and (max-width: 880px) {
 
+    #logo h1 {
+        margin-top: 60px;
+    }
+
     section#logan,
     section#logo {
         width: 85%;
