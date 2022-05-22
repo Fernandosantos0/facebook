@@ -125,6 +125,7 @@ section#logo {
     font-size: 28px;
 }
 
+/* Responsividade */
 @media screen and (max-width: 1101px) {
 
     main#box {
